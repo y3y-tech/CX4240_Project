@@ -1,4 +1,4 @@
-# CX4240_Project
+# Portfolio Optimization
 Financial Machine Learning Project
 
 
