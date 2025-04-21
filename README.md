@@ -27,6 +27,8 @@ And use these predictions to generate algorithmic trades with realistic backtest
 - Support Vector Classifier (SVC)
 - XGBoost Classifier
 - Transformer-based Neural Network
+- Long Short Term Memory (LSTM)
+- Random Forest 
 - Buy-and-Hold Baseline Strategy (Benchmark)
 
 ## Features Used
@@ -40,7 +42,7 @@ And use these predictions to generate algorithmic trades with realistic backtest
 
 ### Macroeconomic Indicators
 - VIX (CBOE Volatility Index)
-- TNX (10-year Treasury Yield)
+- TNX (10-year Treasury Yield)s
 
 ## Methodology
 
