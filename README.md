@@ -14,9 +14,9 @@ Textbook Link: https://gtvault-my.sharepoint.com/:b:/g/personal/yyu473_gatech_ed
 ## Goal
 
 To classify the next 5-day price movement of the S&P 500 as:
-- 📈 `1`: > +0.5% (Bullish)
-- ⚪ `0`: Between -0.5% and +0.5% (Neutral)
-- 📉 `-1`: < -0.5% (Bearish)
+-  `1`: > +0.5% (Bullish)
+-  `0`: Between -0.5% and +0.5% (Neutral)
+-  `-1`: < -0.5% (Bearish)
 
 And use these predictions to generate algorithmic trades with realistic backtesting.
 
